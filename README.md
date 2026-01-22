@@ -126,3 +126,6 @@ This interface allows you to explore the available endpoints, their request/resp
         ├── prisma.ts        # Prisma Client singleton
         └── swagger.ts       # Swagger configuration
 ```
+## Screenshots
+Screenshots of API testing using Swagger UI are available in the screenshots folder.
+
